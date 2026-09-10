@@ -1,13 +1,13 @@
-# Classic Pancakes
+# 🥞 Classic Pancakes
 
-**Category:** Breakfast
-**Difficulty:** Easy
-**Serves:** 4
-**Time:** 20 minutes
+**📁 Category:** Breakfast
+**⚡ Difficulty:** Easy
+**🍽️ Serves:** 4
+**⏱️ Time:** 20 minutes
 
 ---
 
-## Ingredients
+## 🛒 Ingredients
 
 - 1 cup all-purpose flour
 - 2 tablespoons sugar
@@ -16,12 +16,12 @@
 - 1/4 teaspoon salt
 - 3/4 cup buttermlik  <!-- typo: should be "buttermilk" -->
 - 1/4 cup milk
-- 1 egg
-- 2 tablespoons melted butter
+- 🥚 1 egg
+- 2 tablespoons melted butter 🧈
 
 ---
 
-## Instructions
+## 👩‍🍳 Instructions
 
 1. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.
 2. In a separate bowl, mix the buttermilk, milk, egg, and melted butter.
@@ -30,11 +30,11 @@
 5. Pour about 1/4 cup of batter per pancake onto the pan.
 6. Cook until bubbles form on the surface and the edges look set, about 2-3 minutes.
 7. Flip and cook for another 1-2 minutes until golden brown.
-8. Serve warm with maple syrup and fresh fruit.
+8. 🍁 Serve warm with maple syrup and fresh fruit.
 
 ---
 
-## Tips
+## 💡 Tips
 
 - For extra fluffy pancakes, let the batter rest for 5 minutes before cooking.
 - Don't press down on the pancakes while cooking — it makes them dense.
@@ -42,6 +42,6 @@
 
 ---
 
-## Nutrition (per serving)
+## 🥗 Nutrition (per serving)
 
 *Coming soon*
