@@ -14,7 +14,7 @@
 - 1 teaspoon baking powder
 - 1/2 teaspoon baking soda
 - 1/4 teaspoon salt
-- 3/4 cup buttermlik  <!-- typo: should be "buttermilk" -->
+- 3/4 cup buttermilk
 - 1/4 cup milk
 - 🥚 1 egg
 - 2 tablespoons melted butter 🧈
