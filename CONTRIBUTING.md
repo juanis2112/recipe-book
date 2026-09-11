@@ -49,7 +49,7 @@ cd recipe-book
 Add the original repository as a remote called `upstream`. This lets you pull in future updates from the main project:
 
 ```bash
-git remote add upstream https://github.com/ORIGINAL-OWNER/recipe-book.git
+git remote add upstream git@github.com:ORIGINAL-OWNER/recipe-book.git
 ```
 
 Verify your remotes look right:
