@@ -87,10 +87,16 @@ Keep changes focused — one issue per branch/PR makes review much easier.
 
 ## 7. Commit Your Changes
 
-Stage your changes and write a clear commit message:
+First, check which files were modified:
 
 ```bash
-git add .
+git status
+```
+
+Then stage only the file(s) relevant to your change — avoid staging files you didn't intentionally edit:
+
+```bash
+git add path/to/your-file.md
 git commit -m "fix: correct typo in pancakes recipe
 
 The word 'buttermilk' was misspelled as 'buttermlik' in the
