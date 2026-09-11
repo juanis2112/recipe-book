@@ -97,24 +97,13 @@ Then stage only the file(s) relevant to your change — avoid staging files you 
 
 ```bash
 git add path/to/your-file.md
-git commit -m "fix: correct typo in pancakes recipe
-
-The word 'buttermilk' was misspelled as 'buttermlik' in the
-ingredients list of recipes/pancakes.md.
-
-Closes #3"
+git commit -m "fix: correct typo in pancakes.md"
 ```
 
 ### Commit Message Format
 
-We follow this structure:
-
 ```
 <type>: <short summary>
-
-<optional longer description>
-
-<optional issue reference>
 ```
 
 **Types:**
