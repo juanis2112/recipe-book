@@ -38,7 +38,7 @@ Click the **Fork** button at the top-right of this page. This creates your own c
 Clone your fork to your local machine. Replace `YOUR-USERNAME` with your GitHub username:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/recipe-book.git
+git clone git@github.com:YOUR-USERNAME/recipe-book.git
 cd recipe-book
 ```
 
